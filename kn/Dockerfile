@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/knative.dev/client/cmd/kn@sha256:71969a1cd39e33708278a8b1e264ee1abb95fbed1c4b17110d840b51184c4fb9
