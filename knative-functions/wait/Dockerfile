@@ -1,0 +1,1 @@
+FROM index.docker.io/knativefunctions/wait@sha256:d2f28a75cfc2f694037c441598c35995ba8fb4ed346a4b34b8f13eed9a02b0d8

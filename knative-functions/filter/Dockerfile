@@ -1,0 +1,1 @@
+FROM index.docker.io/knativefunctions/filter@sha256:46e140959d3f4ef25169f52da8c42f5d72948101dd1e944cd96a29ded6ad44c8
