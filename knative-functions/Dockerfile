@@ -1,0 +1,1 @@
+FROM index.docker.io/knativefunctions/controller-9a816859663f6ae0431eb827064b1ff7@sha256:30561eec94dba04e12c758ef796f421348b80b4c19a843da068f6ab7f4ee802d
